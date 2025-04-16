@@ -15,15 +15,6 @@ hero:
       text: 开始学习
       link: /山/博山篇
 
-    - theme: alt
-      text: 提交书籍与纠错
-      link: /提交书籍与纠错
-
-
-
-    - theme: custom-alt
-      text: Theo-Docs
-      link: https://doc.theojs.cn
 
 features:
   - title: 山
@@ -59,9 +50,6 @@ features:
     link: 相关经典/道德经
     # linkText: 查看
 
-  - title: 提交书籍与纠错
-    link: 提交书籍与纠错
-    # linkText: 提交
 ---
 
 <Home />
